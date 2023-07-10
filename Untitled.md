@@ -1,1 +1,0 @@
-We need to speak to you regarding your recently uploaded bank document before we can fund your loan. Please give us a call at 855-282-6353.
