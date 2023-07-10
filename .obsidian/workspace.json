@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b12aee80a513e3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/DailyLog.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/DailyLog.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/DailyLog.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,13 +172,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c0fefe2b613a4ef6",
+  "active": "b12aee80a513e3db",
   "lastOpenFiles": [
-    "Templates/WeeklyLog.md",
     "Templates/DailyLog.md",
+    "Untitled.md",
+    "Templates/WeeklyLog.md",
     "Projects",
     "Logs/Monthly",
     "Logs/Weekly",
