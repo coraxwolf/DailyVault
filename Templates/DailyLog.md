@@ -1,3 +1,7 @@
+---
+
+---
+
 # Daily Log - {{date: dddd Do of MMMM YYYY}}
 
 ## Summary

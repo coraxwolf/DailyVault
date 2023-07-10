@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/WeeklyLog.md",
+                "file": "Templates/DailyLog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/WeeklyLog.md",
+                "file": "Templates/DailyLog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/WeeklyLog.md",
+                "file": "Templates/DailyLog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/WeeklyLog.md"
+                "file": "Templates/DailyLog.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "c0fefe2b613a4ef6",
   "lastOpenFiles": [
-    "Templates/DailyLog.md",
     "Templates/WeeklyLog.md",
+    "Templates/DailyLog.md",
     "Projects",
     "Logs/Monthly",
     "Logs/Weekly",

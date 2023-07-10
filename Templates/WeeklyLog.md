@@ -1,1 +1,1 @@
-# Weekly Log
+# Weekly Log For {{date:Wo}} Week of {{date:YYYY}}
